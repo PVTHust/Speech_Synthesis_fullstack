@@ -1,0 +1,5 @@
+!.gitignore
+results/
+venv/
+__pycache__/
+.vscode/

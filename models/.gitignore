@@ -1,0 +1,4 @@
+*
+!.gitignore
+!model_paths.yml
+!pretrain_base_1/
